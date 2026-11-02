@@ -1,11 +1,12 @@
 # Anthony Betancourt
-### Software Engineer | Frontend Architecture | Design Systems
+### Software Engineer | Frontend Architecture
 
-Building scalable, reusable, and maintainable digital experiences.
+**Building scalable, multi-brand frontend ecosystems.**
 
-I’m a frontend-focused Software Engineer with 8+ years of experience building modern web applications, enterprise UI platforms, and reusable component ecosystems.
-
-My focus is on bridging the gap between design and engineering — creating consistent, scalable frontend architectures that empower teams to build better products.
+Contributed to enterprise design system and component library
+initiatives supporting **8 General Motors brands**, helping
+establish reusable UI architecture, shared components,
+design patterns, and engineering standards across teams.
 
 ---
 
